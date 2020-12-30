@@ -1,2 +1,2 @@
 # ignatius
-GitHub Pages
+Website
